@@ -261,7 +261,7 @@ hr
     width: 50.75rem;
     height: 0rem;
     left: 69.25rem;
-    top: 11.313rem;
+    top: 8.313rem;
 }
 
 .miniframe
@@ -306,65 +306,68 @@ li
     .property-details
     {
         height: 51.5rem;
+        width: 111rem;
     }
     .cornerimg img
     {
         position: absolute;
         top: 6.5%;
+        left: 1.3%;
+        height: 5rem;
 
     left: 1.3%;
     }
     .rectangle
     {
         
-        width: 31.625rem;
-        height: 30.375rem;
+        width: 56.625rem;
+        height: 38.375rem;
         position: absolute;
         left: 3.375rem;
         top: 5.063rem;
     }
 h1
-{    font-size: 2.5rem;
+{     font-size: 3.5rem;
     position: absolute;
-    left: 27.5rem;
+    left: 49.5rem;
     top: 1.5rem;
 }
 hr
 {
     position: absolute;
-    width: 34.75rem;
+    width: 46.75rem;
     height: 0rem;
-    left: 37.25rem;
-    top: 11.313rem;
+    left: 63.25rem;
+    top: 9.313rem;
 }
 
 .miniframe
 {
-    gap: 0.5rem;
+    gap: 1.5rem;
     position: absolute;
     width: 22.5rem;
     height: 2.625rem;
-    left: 38.25rem;
-    top: 7.625rem;
+    left: 67.25rem;
+    top: 8.625rem;
 }
 .content
 {
    
-    left: 37.25rem;
-    top: 11.813rem;
+    left: 64.25rem;
+    top: 12.813rem;
     position: absolute;
-    width: 30.625rem;
-    font-size: 1.2rem;
+    width: 44.625rem;
+    font-size: 2rem;
 
 }
 .content2
 {
     position: absolute;
-    width: 31.625rem;
+    width: 43.625rem;
     height: 15rem;
-    left: 37.25rem;
-    top: 26.188rem;
-    font-size: 1.2rem;
+    left: 64.25rem;
+    top: 30.188rem;
+    font-size: 2rem;
 }
 li
 {
@@ -377,72 +380,73 @@ li
 {
     .property-details
     {
-        height: 96.5rem;
+        height: 97.5rem;
+        width: 76rem;
     }
     .cornerimg img
     {
         position: absolute;
         top: 2.5%;
-        left: 1.3%
+        left: 1.3%;
     }
     .rectangle
     {
         
-    width: 43.625rem;
-    height: 34.375rem;
-
+        width: 65.625rem;
+        height: 43.375rem;
         position: absolute;
         left: 3.375rem;
-        top: 4.063rem;
+        top: 5.063rem;
     }
 h1
-{font-size: 3rem;
+{    font-size: 4.5rem;
     position: absolute;
-    left: 7.5rem;
-     top: -1.375rem;
+    left: 12.5rem;
+    top: -0.375rem;
 }
 hr
 {
     position: absolute;
-    width: 41.75rem;
+    width: 59.75rem;
     height: 0rem;
     left: 0.25rem;
-    top: 42.313rem;
+    top: 52.313rem;
 }
 
 .miniframe
 {
-    gap: 3.5rem;
+    gap: 12.5rem;
     position: absolute;
-    width: 30.5rem;
+    width: 35.5rem;
     height: 2.625rem;
-    left: 1.25rem;
-    top: 38.625rem;
+    left: -0.75rem;
+    top: 50.625rem;
 }
 .content
-{
-    left: 3.25rem;
-    top: 43.813rem;
+{    left: 3.25rem;
+    top: 57.813rem;
     position: absolute;
-    width: 44.625rem;
+    width: 68.625rem;
     font-size: 2rem;
+    line-height: 2.875rem;
 }
 .content2
 {
     position: absolute;
-    width: 43.625rem;
+    width: 68.625rem;
     height: 15rem;
     left: 3.25rem;
-    top: 65.188rem;
+    top: 77.188rem;
     font-size: 2rem;
+    line-height: 2.875rem;
 }
 }
 @media (min-width:481px) and (max-width:767px)
 {
     .property-details
     {
-        height: 78.5rem;
-        width: 39rem;
+        height: 103.5rem;
+        width: 74rem;
     }
     .cornerimg img
     {
@@ -452,53 +456,54 @@ hr
     }
     .rectangle
     {
-        
-        width: 33.625rem;
-        height: 28.375rem;
+        width: 66.625rem;
+        height: 46.375rem;
         position: absolute;
-        left: 2.375rem;
-        top: 3.063rem;
+        left: 3.375rem;
+        top: 4.063rem;
     }
-h1
-{    font-size: 2rem;
-    position: absolute;
-    left: 7.5rem;
-    top: -2rem;
+h1   
+{ font-size: 4.5rem;
+position: absolute;
+left: 12.5rem;
+top: -1rem;
 }
 hr
 {
     position: absolute;
-    width: 34.75rem;
+    width: 60.75rem;
     height: 0rem;
     left: 0.25rem;
-    top: 35.313rem;
+    top: 54.313rem;
 }
 
 .miniframe
 {
-    gap: 0.5rem;
+    gap: 12.5rem;
     position: absolute;
     width: 30.5rem;
     height: 2.625rem;
     left: 0.25rem;
-    top: 31.625rem;
+    top: 52.625rem;
 }
 .content
 {
     left: 3.25rem;
-    top: 36.813rem;
+    top: 58.813rem;
     position: absolute;
-    width: 33.625rem;
-    font-size: 1.5rem;
+    width: 67.625rem;
+    font-size: 2.5rem;
+    line-height: 2.875rem;
 }
 .content2
 {
     position: absolute;
-    width: 32.625rem;
+    width: 66.625rem;
     height: 15rem;
     left: 3rem;
-    top: 56.188rem;
-    font-size: 1.5rem;
+    top: 80.188rem;
+    font-size: 2.5rem;
+    line-height: 2.875rem;
 }
 }
 
